@@ -4,8 +4,8 @@ import hmac
 import time
 
 
-api_key = "mx0vgldyoifWSHZ9AL"
-secret_key = "8af018026aff45b8800fad33158b8507"
+api_key = "mx0vglLHhSaPkOsmaS"
+secret_key = "c30fba7ee3e742c796655f8d1e4810da"
 url = "https://api.mexc.com/api/v3/capital/config/getall"
 
 

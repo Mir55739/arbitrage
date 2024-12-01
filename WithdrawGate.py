@@ -3,8 +3,8 @@ import gate_api
 from gate_api.exceptions import ApiException
 
 # Установите свой API ключ и секрет
-api_key = "ec9688e679495a32827b8821f0edaa47"
-api_secret = "552c686a4bf9b130dd42e782495091b3b7327be686ac7e3ce87a2f0ebd305c08"
+api_key = "d231a4c7b1cff64ec9edb237173705e4"
+api_secret = "0cae023f4d7317a57d72d4c3fb24cde914a581381cb5f16b27a09c200d7e6678"
 
 # Установите валюту
 currency = "USDT"
